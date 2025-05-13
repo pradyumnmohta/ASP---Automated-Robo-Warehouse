@@ -18,7 +18,9 @@ This project models a simplified warehouse automation problem using Answer Set P
 - README.md → Project summary and usage
 
 ## Run Instructions
+```bash
 clingo code/warehouse.lp code/inst1.asp --opt-mode=opt
+```
 
 ## Report
 For a detailed explanation of the problem, approach, and results, see report/Pradyumn_Mohta_Report.pdf
