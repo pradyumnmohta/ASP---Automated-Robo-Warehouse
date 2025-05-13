@@ -21,8 +21,7 @@ This project models a simplified warehouse automation problem using Answer Set P
 clingo code/warehouse.lp code/inst1.asp --opt-mode=opt
 
 ## Report
-For a detailed explanation of the problem, approach, and results, see report/Pradyumn_Mohta_Milestone2.pdf
+For a detailed explanation of the problem, approach, and results, see report/Pradyumn_Mohta_Report.pdf
 
 ## Author
-Pradyumn Mohta
-Arizona State University.
+Pradyumn Mohta - Arizona State University.
